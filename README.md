@@ -206,27 +206,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🏆 Built For
-
-- **🎯 Buildathon 2025** - Showcasing innovative Web3 collaboration
-- **💼 Professional Portfolios** - Demonstrating full-stack development skills
-- **🌍 Open Source Community** - Contributing to the future of collaborative NFTs
-- **🚀 Production Deployment** - Scalable architecture for real-world use
-
-## 📞 Support & Contact
-
-- **📧 Email:** [Insert your email]
-- **🐦 Twitter:** [Insert your Twitter]
-- **💼 LinkedIn:** [Insert your LinkedIn]
-- **🌐 Website:** [Insert your website]
-
----
-
-<div align="center">
 
 **🎨 Collaborative Dynamic NFTs Platform**
 
@@ -238,5 +218,6 @@ Made with ❤️ for **Buildathon 2025**
 [![Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](http://localhost:3000)
 
 </div>
+
 
 
