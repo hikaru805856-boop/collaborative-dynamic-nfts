@@ -208,16 +208,9 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 
 
-**🎨 Collaborative Dynamic NFTs Platform**
-
-*Transforming Static NFTs into Living, Breathing, AI-Enhanced Collaborative Assets*
-
-Made with ❤️ for **Buildathon 2025**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/hikaru805856-boop/collaborative-dynamic-nfts)
-[![Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](http://localhost:3000)
 
 </div>
+
 
 
 
